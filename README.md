@@ -1,6 +1,6 @@
 # DeepLearning.AI-Introduction-to-TensorFlow-for-Artificial-Intelligence-ML-and-DL 
 
-Exercise 1
+Exercise 1:
 In this exercise you'll try to build a neural network that predicts the price of a house according to a simple formula.
 
 So, imagine if house pricing was as easy as a house costs 50k + 50k per bedroom, so that a 1 bedroom house costs 100k, a 2 bedroom house costs 150k etc.
@@ -10,7 +10,10 @@ How would you create a neural network that learns this relationship so that it w
 Hint: Your network might work better if you scale the house price down. You don't have to give the answer 400...it might be better to create something that predicts the number 4, and then your answer is in the 'hundreds of thousands' etc.
 
 
-Exercise 2
+
+
+
+Exercise 2:
 In the course you learned how to do classification using Fashion MNIST, a data set containing items of clothing. There's another, similar dataset called MNIST which has items of handwriting -- the digits 0 through 9.
 
 Write an MNIST classifier that trains to 99% accuracy or above, and does it without a fixed number of epochs -- i.e. you should stop training once you reach that level of accuracy.
